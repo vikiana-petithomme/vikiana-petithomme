@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikiana Petit-Homme</h1>
 <h3 align="center">a community organizer and software engineer based in Boston</h3>
-
+<br>
 - 🌱 I’m currently learning **Back-end development**
 
 - 👨‍💻 All of my projects are available at [https://vikiana.netlify.app/](https://vikiana.netlify.app/)
