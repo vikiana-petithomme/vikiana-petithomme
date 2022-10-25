@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋🏽, I'm Vikiana Petit-Homme</h1>
 <h3 align="center">a community organizer and software engineer based in Boston</h3>
 <br>
+At the core of my values is curiosity, community, and radical imagination. From spearheading mutual aid organizations and drives, to curating community events aimed at feeding and connecting neighbors to one another, I’m committed to having a sense of reimagination about what a community can achieve and be. Through my current work as a Software Developer I am in pursuit of creating community based web tools that connect and empower. It was easy to transfer my community organizing skills into ensuring meaningful collaboration with other developers, managing and developing meaningful tools and sites, and being creative and open minded about what is possible to create. I’m excited to collaborate with others who hold similar visions. 
+<br>
 - 🌱 I’m currently learning **Back-end development**
 
 - 👨‍💻 All of my projects are available at [https://vikiana.netlify.app/](https://vikiana.netlify.app/)
