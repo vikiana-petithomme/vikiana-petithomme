@@ -4,7 +4,6 @@
 
 <p>At the core of my values is curiosity, community, and radical imagination. From spearheading mutual aid organizations and drives, to curating community events aimed at feeding and connecting neighbors to one another, I’m committed to having a sense of reimagination about what a community can achieve and be. Through my current work as a Software Developer I am in pursuit of creating community based web tools that connect and empower. It was easy to transfer my community organizing skills into ensuring meaningful collaboration with other developers, managing and developing meaningful tools and sites, and being creative and open minded about what is possible to create. I’m excited to collaborate with others who hold similar visions.</p>
 
-<br>
 
 - 🌱 I’m currently learning **Back-end development**
 
