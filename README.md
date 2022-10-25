@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1OQSJhAVBA5R5GNpFjQe329PCYb2hipERwV6KtQD2nAI/edit?usp=sharing](https://docs.google.com/document/d/1OQSJhAVBA5R5GNpFjQe329PCYb2hipERwV6KtQD2nAI/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm interested in building tools for grassroots organizing**
+- ⚡ Fun fact **Lover of History & Mythology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
